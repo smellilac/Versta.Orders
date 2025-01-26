@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Versta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\order.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\order.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\unitorders\\command\\createorderhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\unitorders\\command\\createorderhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\cqrs\\commands\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\cqrs\\commands\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\cqrs\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\cqrs\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\commonbehavior\\validation\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\commonbehavior\\validation\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\unitorders\\queries\\getordersforcustomerqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\unitorders\\queries\\getordersforcustomerqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\models\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\models\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\cqrs\\queries\\getcustomerorderlist\\getordersforcustomerqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\cqrs\\queries\\getcustomerorderlist\\getordersforcustomerqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\models\\ordersforcustomersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\models\\ordersforcustomersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C88468-91DF-4EF7-9FC0-930F5507C541}|EntityTypeConfiguration\\EntityTypeConfiguration.csproj|c:\\users\\user\\source\\repos\\versta\\entitytypeconfiguration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C88468-91DF-4EF7-9FC0-930F5507C541}|EntityTypeConfiguration\\EntityTypeConfiguration.csproj|solutionrelative:entitytypeconfiguration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\cqrs\\commands\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\cqrs\\commands\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\unitorders\\queries\\getordersqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\unitorders\\queries\\getordersqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\common\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\common\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\common\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\common\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\common\\querytestscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\common\\querytestscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|c:\\users\\user\\source\\repos\\versta\\order.tests\\common\\querytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DBE794-E457-4363-A1CD-9859632D3A02}|Order.Tests\\Order.Tests.csproj|solutionrelative:order.tests\\common\\querytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CC266-FCD3-44FC-A7AB-8F67D5558ADE}|Order.Domain\\Order.Domain.csproj|c:\\users\\user\\source\\repos\\versta\\order.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CC266-FCD3-44FC-A7AB-8F67D5558ADE}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|c:\\users\\user\\source\\repos\\versta\\order.webapi\\persistance\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEBC3CA-953B-425A-A2D6-42C3BE7019FD}|Order.WebApi\\Order.WebApi.csproj|solutionrelative:order.webapi\\persistance\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\order.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\order.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|c:\\users\\user\\source\\repos\\versta\\order.application\\iorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92343D0A-13D8-4116-8591-C11C43E618EC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\iorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Order.WebApi.csproj",
+              "RelativeDocumentMoniker": "Order.WebApi\\Order.WebApi.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Order.WebApi.csproj",
+              "RelativeToolTip": "Order.WebApi\\Order.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T00:14:36.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CommonBehavior\\Validation\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Order.Application\\CommonBehavior\\Validation\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CommonBehavior\\Validation\\ValidationBehavior.cs",
+              "RelativeToolTip": "Order.Application\\CommonBehavior\\Validation\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:08:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetOrdersForCustomerQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Queries\\GetCustomerOrderList\\GetOrdersForCustomerQueryValidator.cs",
+              "RelativeDocumentMoniker": "Order.Application\\CQRS\\Queries\\GetCustomerOrderList\\GetOrdersForCustomerQueryValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Queries\\GetCustomerOrderList\\GetOrdersForCustomerQueryValidator.cs",
+              "RelativeToolTip": "Order.Application\\CQRS\\Queries\\GetCustomerOrderList\\GetOrdersForCustomerQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:08:09.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Order.WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Order.WebApi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:57:35.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Commands\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\CQRS\\Commands\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Commands\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "Order.Application\\CQRS\\Commands\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:16:30.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Commands\\CreateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "Order.Application\\CQRS\\Commands\\CreateOrderCommandValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Commands\\CreateOrderCommandValidator.cs",
+              "RelativeToolTip": "Order.Application\\CQRS\\Commands\\CreateOrderCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:16:23.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Commands\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Order.Application\\CQRS\\Commands\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\CQRS\\Commands\\CreateOrderCommand.cs",
+              "RelativeToolTip": "Order.Application\\CQRS\\Commands\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:16:12.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Order.WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Order.WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:38:46.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersForCustomersDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Models\\OrdersForCustomersDto.cs",
+              "RelativeDocumentMoniker": "Order.WebApi\\Models\\OrdersForCustomersDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Models\\OrdersForCustomersDto.cs",
+              "RelativeToolTip": "Order.WebApi\\Models\\OrdersForCustomersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:32:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Models\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Order.WebApi\\Models\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Models\\CreateOrderDto.cs",
+              "RelativeToolTip": "Order.WebApi\\Models\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:32:40.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\TestBase.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\Common\\TestBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\TestBase.cs",
+              "RelativeToolTip": "Order.Tests\\Common\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:07:58.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QueryTestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\QueryTestFixture.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\Common\\QueryTestFixture.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\QueryTestFixture.cs",
+              "RelativeToolTip": "Order.Tests\\Common\\QueryTestFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:07:44.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QueryTestsCollection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\QueryTestsCollection.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\Common\\QueryTestsCollection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\QueryTestsCollection.cs",
+              "RelativeToolTip": "Order.Tests\\Common\\QueryTestsCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:07:44.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\UnitOrders\\Command\\CreateOrderHandlerTests.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\UnitOrders\\Command\\CreateOrderHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\UnitOrders\\Command\\CreateOrderHandlerTests.cs",
+              "RelativeToolTip": "Order.Tests\\UnitOrders\\Command\\CreateOrderHandlerTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4vzYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:05:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetOrdersQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\UnitOrders\\Queries\\GetOrdersQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\UnitOrders\\Queries\\GetOrdersQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\UnitOrders\\Queries\\GetOrdersQueryHandlerTests.cs",
+              "RelativeToolTip": "Order.Tests\\UnitOrders\\Queries\\GetOrdersQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:59:50.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\OrderContextFactory.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\Common\\OrderContextFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\Common\\OrderContextFactory.cs",
+              "RelativeToolTip": "Order.Tests\\Common\\OrderContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:59:09.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrdersForCustomerQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\UnitOrders\\Queries\\GetOrdersForCustomerQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Order.Tests\\UnitOrders\\Queries\\GetOrdersForCustomerQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Tests\\UnitOrders\\Queries\\GetOrdersForCustomerQueryHandlerTests.cs",
+              "RelativeToolTip": "Order.Tests\\UnitOrders\\Queries\\GetOrdersForCustomerQueryHandlerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:57:27.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\EntityTypeConfiguration\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityTypeConfiguration\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\EntityTypeConfiguration\\OrderConfiguration.cs",
+              "RelativeToolTip": "EntityTypeConfiguration\\OrderConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:22:40.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Order.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\appsettings.json",
+              "RelativeToolTip": "Order.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T10:16:23.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Order.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Program.cs",
+              "RelativeToolTip": "Order.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:14:30.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Persistance\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "Order.WebApi\\Persistance\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.WebApi\\Persistance\\OrderDbContext.cs",
+              "RelativeToolTip": "Order.WebApi\\Persistance\\OrderDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:08:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\Order.Application.csproj",
+              "RelativeDocumentMoniker": "Order.Application\\Order.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\Order.Application.csproj",
+              "RelativeToolTip": "Order.Application\\Order.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:01:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\IOrderDbContext.cs",
+              "RelativeDocumentMoniker": "Order.Application\\IOrderDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Application\\IOrderDbContext.cs",
+              "RelativeToolTip": "Order.Application\\IOrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:59:30.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Versta\\Order.Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Versta\\Order.Domain\\Order.cs",
+              "RelativeToolTip": "Order.Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:52:03.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

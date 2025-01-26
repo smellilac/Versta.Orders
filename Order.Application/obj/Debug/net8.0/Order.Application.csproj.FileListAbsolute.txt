@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Versta\Order.Application\bin\Debug\net8.0\Order.Application.deps.json
+C:\Users\User\source\repos\Versta\Order.Application\bin\Debug\net8.0\Order.Application.dll
+C:\Users\User\source\repos\Versta\Order.Application\bin\Debug\net8.0\Order.Application.pdb
+C:\Users\User\source\repos\Versta\Order.Application\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\User\source\repos\Versta\Order.Application\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Ap.8554589A.Up2Date
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.dll
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\Order.Application.pdb
+C:\Users\User\source\repos\Versta\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll

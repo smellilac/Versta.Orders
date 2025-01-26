@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\bin\Debug\net8.0\EntityTypeConfiguration.deps.json
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\bin\Debug\net8.0\EntityTypeConfiguration.dll
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\bin\Debug\net8.0\EntityTypeConfiguration.pdb
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.AssemblyInfo.cs
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTy.385600D5.Up2Date
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.dll
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\refint\EntityTypeConfiguration.dll
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\EntityTypeConfiguration.pdb
+C:\Users\User\source\repos\Versta\EntityTypeConfiguration\obj\Debug\net8.0\ref\EntityTypeConfiguration.dll

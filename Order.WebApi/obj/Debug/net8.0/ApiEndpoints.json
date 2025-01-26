@@ -1,0 +1,89 @@
+[
+  {
+    "ContainingType": "Order.WebApi.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SenderCity",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SenderAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ReceiverCity",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ReceiverAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Weight",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "PickupDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Order.WebApi.Controllers.OrderController",
+    "Method": "GetAll",
+    "RelativePath": "GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Order.Application.CQRS.Queries.GetOrderList.OrderListViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Order.WebApi.Controllers.OrderController",
+    "Method": "GetOrdersForCustomers",
+    "RelativePath": "GetOrdersForCustomers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "forCustomersDto",
+        "Type": "Order.WebApi.Models.OrdersForCustomersDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Order.Application.CQRS.Queries.GetCustomerOrderList.OrderListForCustomerVW",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
