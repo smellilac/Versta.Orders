@@ -23,7 +23,7 @@ CREATE DATABASE Versta;
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Host=localhost;Port=5432;Database=versta_orders;Username=your_username;Password=your_password"
+  "OrderDatabase": "Host=localhost;Port=5432;Database=versta_orders;Username=your_username;Password=your_password"
 }
 ```
 
